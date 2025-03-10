@@ -1,3 +1,5 @@
+const solve = require('./algorithm.js');
+
 const showEquation = (a, b, c) => {
   const equation = `(${a})x^2 + (${b})x + (${c}) = 0`;
   console.log(`Equation is: ${equation}`);
