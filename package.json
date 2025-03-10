@@ -1,0 +1,19 @@
+{
+  "name": "quad-eq-solver",
+  "version": "1.0.0",
+  "description": "Quadratic equation solver",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inna275/quad-eq-solver.git"
+  },
+  "author": "Inna Denysiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inna275/quad-eq-solver/issues"
+  },
+  "homepage": "https://github.com/Inna275/quad-eq-solver#readme"
+}
