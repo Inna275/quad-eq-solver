@@ -1,4 +1,4 @@
-const solve = require('./algorithm.js');
+import { solve } from './algorithm.js';
 
 const showEquation = (a, b, c) => {
   const equation = `(${a})x^2 + (${b})x + (${c}) = 0`;
@@ -18,4 +18,4 @@ const showRoots = (a, b, c) => {
   }
 };
 
-module.exports = { showEquation, showRoots };
+export { showEquation, showRoots };

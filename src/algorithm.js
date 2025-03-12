@@ -24,4 +24,4 @@ const solve = (a, b, c) => {
   return getRoots(discriminant, a, b);
 };
 
-module.exports = solve;
+export { solve };
