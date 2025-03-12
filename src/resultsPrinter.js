@@ -17,3 +17,5 @@ const showRoots = (a, b, c) => {
     console.log(`x${i + 1} = ${roots[i]}`);
   }
 };
+
+module.exports = { showEquation, showRoots };
